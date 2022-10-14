@@ -32,6 +32,7 @@ Shader "Unlit/Test"
 
             uniform sampler2D _MainTex;
             uniform float4 _MainTex_ST;
+            
 
             v2f vert (appdata v)
             {
